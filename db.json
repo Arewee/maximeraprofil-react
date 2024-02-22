@@ -1,0 +1,33 @@
+
+{
+  "products": [
+  {
+  "id" : 1,
+  "product" : "Baseballl cap",
+  "url": "https://picsum.photos/200",
+  "description" : "A very nice product with a lousy description, just buy it please!",
+  "price" : ""
+  },
+  {
+  "id" : 2,
+  "product" : "Umbrella",
+  "url": "https://picsum.photos/200",
+  "description" : "A very nice product with a lousy description, just buy it please!",
+  "price" : ""
+  },
+  {
+  "id" : 3,
+  "product" : "Coffee cup",
+  "url": "https://picsum.photos/200",
+  "description" : "A very nice product with a lousy description, just buy it please!",
+  "price" : ""
+  }, 
+  {
+  "id" : 4,
+  "product" : "Water bottle",
+  "url": "https://picsum.photos/200",
+  "description" : "A very nice product with a lousy description, just buy it please!",
+  "price" : ""
+  }
+  ]
+}
